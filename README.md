@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋, I'm Simar!
 
-<!--
-**Simar710/Simar710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](<https://www.linkedin.com/in/simardeep-singh-b7b908223/>)][LinkedIn]
+[![Email](<ssingh75@uoguelph.ca>)][Email]
 
-Here are some ideas to get you started:
+### About Me🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a coder who loves to think solutions out of thin air.
+
+- ⚡ Fun fact: I love playing football ⚽️ and hitting gym 🏋🏻‍♂️. 
+- ⚡ Belief: _Stay hungry, Stay foolish._ -- Steve Jobs
+
+### 🛠 I’m currently working on
+
+- Enhancing my competitive coding skills.
+- Developing Full-Stack Web Applications skills.
+- Looking for a job
+
+### Skills 👨‍💻
+
+| Name                              | Description                                                                                                              |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Programming Languages             | Python, Java, C, Javascript                                                                                              |
+| Servers                           | Nginx, Keras, Tensorflow, PyTorch                                                                                        |
+| Cloud infrastructure              | AWS, Google Cloud Platform                                                                                               |
+| Database                          | MySQL, PostgreSQL                                                                                                        |
+| Containerization & Deployment     | Docker, Kubernetes                                                                                                       |
+| Libraries                         | Numpy, Scikit-learn, Pandas, Matplotlib, OpenCV                                                                          |
+| Operating Systems                 | Linux, Windows, MacOS, Android / IOS                                                                                     |
+| Web Technologies & Frameworks     | React, Node.js, Express.js, HTML, CSS, Javascript, jQuery/Ajax, Bootstrap                                                |
+| Others                            | Github/GitLab, Jenkins, ira, Confluence, UI/UX, Scrum/Agile Workflow, Postman, Restful API, Maven, Microservices, YOLOv8 |
+
+### Honors & Awards 🏅
+
+- 2 times Dean’s Honour List for 2 years
