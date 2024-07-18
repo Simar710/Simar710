@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Simar!
 
-![LinkedIn](https://i.sstatic.net/gVE0j.png)[LinkedIn](<https://www.linkedin.com/in/simardeep-singh-b7b908223/>)
+- [LinkedIn](<https://www.linkedin.com/in/simardeep-singh-b7b908223/>)
 
-![Email](https://cdn-icons-png.flaticon.com/128/9068/9068642.png)[Email](<ssingh75@uoguelph.ca>)
+- [Email](<ssingh75@uoguelph.ca>)
 
 ### About Me 🚀
 
