@@ -1,7 +1,8 @@
 ## Hi there 👋, I'm Simar!
 
-[![LinkedIn](https://i.sstatic.net/gVE0j.png)][LinkedIn](<https://www.linkedin.com/in/simardeep-singh-b7b908223/>)
-[![Email](![image](https://github.com/user-attachments/assets/2627770e-04cd-4d83-881e-091289e34126))][Email](<ssingh75@uoguelph.ca>)
+![LinkedIn](https://i.sstatic.net/gVE0j.png)[LinkedIn](<https://www.linkedin.com/in/simardeep-singh-b7b908223/>)
+
+![Email](https://www.flaticon.com/free-icon/mail_9068642)[Email](<ssingh75@uoguelph.ca>)
 
 ### About Me🚀
 
