@@ -2,8 +2,6 @@
 
 - [LinkedIn](<https://www.linkedin.com/in/simardeep-singh-b7b908223/>)
 
-- [Email](<ssingh75@uoguelph.ca>)
-
 ### About Me 🚀
 
 I am a coder who loves to think solutions out of thin air.
