@@ -2,9 +2,9 @@
 
 ![LinkedIn](https://i.sstatic.net/gVE0j.png)[LinkedIn](<https://www.linkedin.com/in/simardeep-singh-b7b908223/>)
 
-![Email](https://www.flaticon.com/free-icon/mail_9068642)[Email](<ssingh75@uoguelph.ca>)
+![Email](https://cdn-icons-png.flaticon.com/128/9068/9068642.png)[Email](<ssingh75@uoguelph.ca>)
 
-### About Me🚀
+### About Me 🚀
 
 I am a coder who loves to think solutions out of thin air.
 
