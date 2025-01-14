@@ -4,7 +4,7 @@
 
 ### About Me 🚀
 
-I am a coder who loves to think solutions out of thin air.
+I am an AWS certified Solution Architect Associate and coder who loves to think solutions out of thin air.
 
 - ⚡ Fun fact: I love playing football ⚽️ and hitting gym 🏋🏻‍♂️. 
 - ⚡ Belief: _Stay hungry, Stay foolish._ -- Steve Jobs
