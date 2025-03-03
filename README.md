@@ -4,14 +4,14 @@
 
 ### About Me 🚀
 
-I am an AWS certified Solution Architect Associate and coder who loves to think solutions out of thin air.
+I am an AWS certified Solution Architect Associate ([Certificate](https://www.credly.com/badges/612630c1-8337-438a-af89-61930ca95ed8/public_url)) and coder who loves to think solutions out of thin air.
 
 - ⚡ Fun fact: I love playing football ⚽️ and hitting gym 🏋🏻‍♂️. 
 - ⚡ Belief: _Stay hungry, Stay foolish._ -- Steve Jobs
 
 ### 🛠 I’m currently working on
 
-- Enhancing my competitive coding skills.
+- Co-op at Candescent, leetcode and some side projects.
 - Developing Full-Stack Web Applications skills.
 - Looking for a job
 
@@ -26,7 +26,7 @@ I am an AWS certified Solution Architect Associate and coder who loves to think 
 | Containerization & Deployment     | Docker, Kubernetes                                                                                                       |
 | Libraries                         | Numpy, Scikit-learn, Pandas, Matplotlib, OpenCV                                                                          |
 | Operating Systems                 | Linux, Windows, MacOS, Android / IOS                                                                                     |
-| Web Technologies & Frameworks     | Spring Boot, React, Node.js, Express.js, HTML, CSS, Javascript, jQuery/Ajax, Bootstrap, Astro                            |
+| Web Technologies & Frameworks     | Spring Boot, React, Node.js, Express.js, HTML, CSS, Javascript, jQuery/Ajax, Bootstrap, Astro, Django                            |
 | Others                            | Github/GitLab, Jenkins, ira, Confluence, UI/UX, Scrum/Agile Workflow, Postman, Restful API, Maven, Microservices, YOLOv8 |
 
 ### Honors & Awards 🏅
