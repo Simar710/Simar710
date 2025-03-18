@@ -27,7 +27,7 @@ I am an AWS certified Solution Architect Associate ([Certificate](https://www.cr
 | Libraries                         | Numpy, Scikit-learn, Pandas, Matplotlib, OpenCV                                                                          |
 | Operating Systems                 | Linux, Windows, MacOS, Android / IOS                                                                                     |
 | Web Technologies & Frameworks     | Spring Boot, React, Node.js, Express.js, HTML, CSS, Javascript, jQuery/Ajax, Bootstrap, Astro, Django                            |
-| Others                            | Github/GitLab, Jenkins, ira, Confluence, UI/UX, Scrum/Agile Workflow, Postman, Restful API, Maven, Microservices, YOLOv8 |
+| Others                            | Machine Learning, Artificial Intelligence, Deep Learning, Github/GitLab, Jenkins, ira, Confluence, UI/UX, Scrum/Agile Workflow, Postman, Restful API, Maven, Microservices, YOLOv8 |
 
 ### Honors & Awards 🏅
 
