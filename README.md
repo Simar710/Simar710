@@ -21,7 +21,7 @@ I am an AWS certified Solution Architect Associate ([Certificate](https://www.cr
 |-----------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Programming Languages             | Python, Java, C, Javascript                                                                                              |
 | Servers                           | Nginx, Keras, Tensorflow, PyTorch                                                                                        |
-| Cloud infrastructure              | AWS, Google Cloud Platform                                                                                               |
+| Cloud infrastructure              | AWS, Google Cloud Platform, Azure                                                                                               |
 | Database                          | MySQL, PostgreSQL                                                                                                        |
 | Containerization & Deployment     | Docker, Kubernetes                                                                                                       |
 | Libraries                         | Numpy, Scikit-learn, Pandas, Matplotlib, OpenCV                                                                          |
